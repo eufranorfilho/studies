@@ -1,0 +1,14 @@
+/media/studies/C#/desafio-fundamentos-dio/obj/Debug/net8.0/desafio-fundamentos-dio.GeneratedMSBuildEditorConfig.editorconfig
+/media/studies/C#/desafio-fundamentos-dio/obj/Debug/net8.0/desafio-fundamentos-dio.AssemblyInfoInputs.cache
+/media/studies/C#/desafio-fundamentos-dio/obj/Debug/net8.0/desafio-fundamentos-dio.AssemblyInfo.cs
+/media/studies/C#/desafio-fundamentos-dio/obj/Debug/net8.0/desafio-fundamentos-dio.csproj.CoreCompileInputs.cache
+/media/studies/C#/desafio-fundamentos-dio/bin/Debug/net8.0/desafio-fundamentos-dio
+/media/studies/C#/desafio-fundamentos-dio/bin/Debug/net8.0/desafio-fundamentos-dio.deps.json
+/media/studies/C#/desafio-fundamentos-dio/bin/Debug/net8.0/desafio-fundamentos-dio.runtimeconfig.json
+/media/studies/C#/desafio-fundamentos-dio/bin/Debug/net8.0/desafio-fundamentos-dio.dll
+/media/studies/C#/desafio-fundamentos-dio/bin/Debug/net8.0/desafio-fundamentos-dio.pdb
+/media/studies/C#/desafio-fundamentos-dio/obj/Debug/net8.0/desafio-fundamentos-dio.dll
+/media/studies/C#/desafio-fundamentos-dio/obj/Debug/net8.0/refint/desafio-fundamentos-dio.dll
+/media/studies/C#/desafio-fundamentos-dio/obj/Debug/net8.0/desafio-fundamentos-dio.pdb
+/media/studies/C#/desafio-fundamentos-dio/obj/Debug/net8.0/desafio-fundamentos-dio.genruntimeconfig.cache
+/media/studies/C#/desafio-fundamentos-dio/obj/Debug/net8.0/ref/desafio-fundamentos-dio.dll
