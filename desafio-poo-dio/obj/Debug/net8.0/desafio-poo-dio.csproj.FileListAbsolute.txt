@@ -1,0 +1,15 @@
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/desafio-poo-dio.GeneratedMSBuildEditorConfig.editorconfig
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/desafio-poo-dio.AssemblyInfoInputs.cache
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/desafio-poo-dio.AssemblyInfo.cs
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/desafio-poo-dio.csproj.CoreCompileInputs.cache
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/desafio-poo-dio.sourcelink.json
+/media/studies/C#/desafio-poo-dio/bin/Debug/net8.0/desafio-poo-dio
+/media/studies/C#/desafio-poo-dio/bin/Debug/net8.0/desafio-poo-dio.deps.json
+/media/studies/C#/desafio-poo-dio/bin/Debug/net8.0/desafio-poo-dio.runtimeconfig.json
+/media/studies/C#/desafio-poo-dio/bin/Debug/net8.0/desafio-poo-dio.dll
+/media/studies/C#/desafio-poo-dio/bin/Debug/net8.0/desafio-poo-dio.pdb
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/desafio-poo-dio.dll
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/refint/desafio-poo-dio.dll
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/desafio-poo-dio.pdb
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/desafio-poo-dio.genruntimeconfig.cache
+/media/studies/C#/desafio-poo-dio/obj/Debug/net8.0/ref/desafio-poo-dio.dll
